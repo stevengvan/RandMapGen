@@ -4,4 +4,4 @@ This project was created using Lua for the language and Roblox Studio for the ga
 
 ## Project Image with video
 
-<a href="randmapgen.mp4" title="random map generator video"><img src="previewimg.png" alt="random map generator video" /></a>
+[![Alternate Text](./previewimg.png)](./randmapgen.mp4 "Link Title")
