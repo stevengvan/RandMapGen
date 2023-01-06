@@ -6,4 +6,4 @@ This project was created using Lua for the language and Roblox Studio for the ga
 
 ![Project image](./previewimg.png)
 
-**Video Demo:** [Random Map Generator Showcase](./randmapgen.mp4)
+**Video Demo:** [Random Map Generator Showcase](https://dl.dropboxusercontent.com/s/pltigcubkb0d3xw/DeeiwUNV0w.mp4)
